@@ -1,0 +1,9 @@
+                  For some time after the introduction of word processors,
+                  attempts were made to “legitimize” them by getting them
+                  to mimic the look of a typewriter. Half-inch tabs and 
+                  indents are a legacy of this and sadly, both the Chicago
+                  Manual of Style (CMOS) and the Modern Language Association
+                  (MLA) still specify half-inch paragraph indents in their 
+                  style guides for manuscripts. It’s a recipe for ugly 
+                  academic papers that ignores basic, long-standing principles
+                                       of book design.
